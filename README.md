@@ -4,12 +4,12 @@ An automated flight price monitoring application that searches for cheap flights
 
 ## Features
 
-- 🔍 **Automated Flight Search** — Searches for flights across multiple destinations using SerpAPI
-- 📊 **Google Sheets Integration** — Stores and updates destination data via Sheety API
-- 💰 **Price Comparison** — Automatically identifies flights cheaper than recorded prices
-- 🔔 **Real-time Notifications** — Sends WhatsApp or SMS alerts when deals are found
-- ⚡ **Request Caching** — Caches API responses to preserve free tier limits and reduce costs
-- 🌍 **Multi-destination Support** — Monitor prices for multiple cities simultaneously
+-  **Automated Flight Search** — Searches for flights across multiple destinations using SerpAPI
+-  **Google Sheets Integration** — Stores and updates destination data via Sheety API
+-  **Price Comparison** — Automatically identifies flights cheaper than recorded prices
+-  **Real-time Notifications** — Sends WhatsApp or SMS alerts when deals are found
+-  **Request Caching** — Caches API responses to preserve free tier limits and reduce costs
+-  **Multi-destination Support** — Monitor prices for multiple cities simultaneously
 
 ## Tech Stack
 
