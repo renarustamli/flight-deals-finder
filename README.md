@@ -258,14 +258,14 @@ flight-deals-finder/
 
 ## Future Improvements
 
-- 📧 Email notifications as alternative to WhatsApp/SMS
-- 🛫 Support for multiple departure airports
-- 📊 Web dashboard for price tracking
-- ☁️ Cloud deployment (AWS Lambda, Heroku)
-- 📝 Detailed logging and history tracking
-- 🐳 Docker containerization
-- 🔐 Enhanced error handling and retry logic
-- 📱 Mobile app integration
+-  Email notifications as alternative to WhatsApp/SMS
+-  Support for multiple departure airports
+-  Web dashboard for price tracking
+-  Cloud deployment (AWS Lambda, Heroku)
+-  Detailed logging and history tracking
+-  Docker containerization
+-  Enhanced error handling and retry logic
+-  Mobile app integration
 
 ## License
 
